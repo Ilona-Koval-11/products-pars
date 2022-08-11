@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://savchyndd.github.io/team-project-ic",
+  "homepage": "https://Ilona-Koval-11.github.io/products-pars",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-ic/"
+    "build": "parcel build src/*.html --public-url /products-pars/"
   },
   "repository": {
     "type": "git",
